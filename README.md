@@ -1,3 +1,3 @@
 # ComputerVision
-Trying to classify image data using PCA 
+Trying to classify image data using PCA  
 Using the MNIST Fashion Data
